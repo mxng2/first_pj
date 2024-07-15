@@ -9,3 +9,5 @@
  folium 
  graphviz
  jupyterlab
+ streamlit
+ streamlit-folium
